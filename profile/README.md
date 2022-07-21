@@ -11,7 +11,7 @@ Git是一个代码版本维护的工具，以后你们会用到的很多开源�
 * [ICRA 2022 RoboMaster University Sim2Real Challenge(The Third Prize)](profile/imgs/2.jpg)
 * [2021 中国机器人技能大赛(二等奖)](profile/imgs/3.jpg)
 * [2021 RoboCup@Home(二等奖)](profile/imgs/4.jpg)
-* [IJCAI 2019 Eldercare Robot Challenges(The Second Place)](profile/imgs/5.jpg)
+* [IJCAI 2019 Eldercare Robot Challenges(The First Place)](profile/imgs/5.jpg)
 * [2018 中国机器人技能大赛(一等奖)](profile/imgs/6.jpg)
 ## 我们的成员参与项目有：
 * [2021 RoboCup@Home全套代码](https://github.com/mvyp/RoboCup2021_MAIN)
