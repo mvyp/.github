@@ -8,6 +8,7 @@ Git是一个代码版本维护的工具，以后你们会用到的很多开源�
 嗨害！这里是北京化工大学国际教育学院机器人中心！</br>
 ![1](profile/imgs/1.jpg)</br>
 ## 我们近几年的主要成绩有：
+* [2022 RoboCup@Home(一等奖)](profile/imgs/2022robocup.jpg)
 * [ICRA 2022 RoboMaster University Sim2Real Challenge(The Third Prize)](profile/imgs/2.jpg)
 * [2021 中国机器人技能大赛(二等奖)](profile/imgs/3.jpg)
 * [2021 RoboCup@Home(二等奖)](profile/imgs/4.jpg)
