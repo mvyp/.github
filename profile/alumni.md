@@ -6,7 +6,7 @@
 * **Naian Tao**, MSc Student (in Mechanical Engineering, Robotics Track) at Columbia University.
 * **Shufan Chen**, Master Student at BUCT (北京化工大学).
 * **Shu Zhao**, Master Student at Waseda University.
-* **Kexin Song**, Master Student at ZJU (浙江大学)
+* **Kexin Song**
 * **Yuan He**
 * **Xiaoyue Li**
 
