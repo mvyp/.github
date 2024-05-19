@@ -3,8 +3,8 @@
 话不多说，请领取招新通知:
 [机器人中心考核要求.pdf](profile/机器人中心考核要求.pdf)
 
-# SIE Robotics Club
-嗨害！这里是北京化工大学国际教育学院机器人中心！</br>
+# International Robotics Club
+嗨害！这里是北京化工大学国际机器人中心！</br>
 ![1](profile/imgs/1.jpg)</br>
 
 ## 奖项：
