@@ -16,6 +16,7 @@
 * [2018 中国机器人技能大赛(一等奖)](profile/imgs/6.jpg)
 
 ## 代码仓库：
+* [2024 RoboCup@Home](https://github.com/mvyp/Robocup_2024)
 * [2023 ICRA RMUS Challenge](https://github.com/mvyp/buct_sim2real2023)
 * [2022 ICRA RMUS Challenge](https://github.com/mvyp/buct_sim2real2022)
 * [2022 RoboCup@Home](https://github.com/mvyp/RoboCup-Home2022)
