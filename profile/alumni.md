@@ -13,7 +13,7 @@
 ## Class of 2023 (2019级)
 * [**Zhengxiao Han**](https://www.linkedin.com/in/purimagination/), MSc Student (in Robotics) at Northwestern University.
 * **[Zeyu Ren](https://www.linkedin.com/in/zeyu-ren-54340429a/)**, MEng Student (in Mechatronics) at Melbourne University.
-* **Ziwen Wang (GitHub头像里的那个男的)**, PhD Student (in Physics) at ZJU (浙江大学).
+* **Ziwen Wang (The boy in the organization avatar. GitHub头像里的那个男的)**, PhD Student (in Physics) at ZJU (浙江大学).
 
 ## Class of 2022 (2018级)
 * [**Yixiao Feng**](https://www.linkedin.com/in/yixiao-feng043/), MEngSc Student (in Robotics) at UNSW.
