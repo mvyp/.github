@@ -20,7 +20,7 @@
 * **Yang Yang**, MSc Student (in Data Science) at CUHKsz.
 * **Yi Zhu**, Graduate Student at HIT (哈尔滨工业大学).
 * [**Xiang Gao**](https://www.linkedin.com/in/%E7%BF%94-%E9%AB%98-b677bb296/), MSc Student (in BioMedical Engineering) at TU Delft.
-* **Chaowei Wang**, MSc Student at University of Nottingham.
+* **Chaowei Wang**, Master Student at University of Nottingham.
 
 ## Class of 2021 (2017级)
 * **Yukai Feng**, PhD Student (in Artificial Intelligence) at UCAS (中国科学院大学).
