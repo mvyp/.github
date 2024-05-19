@@ -21,5 +21,5 @@
 * [2022 RoboCup@Home](https://github.com/mvyp/RoboCup-Home2022)
 * [2021 RoboCup@Home](https://github.com/mvyp/RoboCup2021_MAIN)
 
-## 往届成员(已毕业)
+## 往届成员 (已毕业)
 * [Alumni](profile/alumni.md)
