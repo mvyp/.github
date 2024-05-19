@@ -22,8 +22,4 @@
 * [2021 RoboCup@Home](https://github.com/mvyp/RoboCup2021_MAIN)
 
 ## 往届成员(已毕业)
-* [2020级](profile/2020_alumni.md)
-* [2019级](profile/2019_alumni.md)
-* [2018级](profile/2018_alumni.md)
-* [2017级](profile/2017_alumni.md)
-* [2016级](profile/2016_alumni.md)
+* [Alumni](profile/alumni.md)
