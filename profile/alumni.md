@@ -32,4 +32,4 @@
 * [**Ruiqi Wang**](https://www.linkedin.com/in/ruiqi-wang-41762b207), Ph.D. student at Purdue University, focusing on Robotics.
 * **Weizheng Wang**, Ph.D. student at Purdue University, focusing on Robotics.
 * **Dezhong Zhao**, Master student at BUCT (北京化工大学).
-* **[Ziqin Yuan](https://www.linkedin.com/in/ziqin-yuan-410203214/)**, M.Sc. student in Mechatronics and Robtics at NYU.
+* **[Ziqin Yuan](https://www.linkedin.com/in/ziqin-yuan-410203214/)**, M.Sc. student in Mechatronics and Robotics at NYU.
