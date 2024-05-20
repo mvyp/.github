@@ -25,7 +25,7 @@
 ## Class of 2021 (2017级)
 * **Yukai Feng**, Ph.D. student in Artificial Intelligence at UCAS (中国科学院大学).
 * **[Pengyuan Wei](https://www.linkedin.com/in/pengyuan-wei-928b0023b/)**, Ph.D. student in Computer Science at UCL, focusing on Robotics.
-* **Heng Du**, Ph.D. student in Computer Science and Engineering (Extended Reality) at CUHK, focusing on Extended Reality.
+* **Heng Du**, Ph.D. student in Computer Science and Engineering at CUHK, focusing on Extended Reality.
 * *and more...*
 
 ## Class of 2020 (2016级)
