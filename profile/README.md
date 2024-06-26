@@ -8,12 +8,12 @@
 ![1](https://github.com/mvyp/.github/blob/main/profile/imgs/1.jpg)</br>
 
 ## 奖项：
-* [2022 RoboCup@Home(一等奖)](profile/imgs/2022robocup.jpg)
-* [ICRA 2022 RoboMaster University Sim2Real Challenge(The Third Prize)](profile/imgs/2.jpg)
-* [2021 中国机器人技能大赛(二等奖)](profile/imgs/3.jpg)
-* [2021 RoboCup@Home(二等奖)](profile/imgs/4.jpg)
-* [IJCAI 2019 Eldercare Robot Challenges(The First Place)](profile/imgs/5.jpg)
-* [2018 中国机器人技能大赛(一等奖)](profile/imgs/6.jpg)
+* [2022 RoboCup@Home(一等奖)](https://github.com/mvyp/.github/blob/main/profile/imgs/2022robocup.jpg)
+* [ICRA 2022 RoboMaster University Sim2Real Challenge(The Third Prize)](https://github.com/mvyp/.github/blob/main/profile/imgs/2.jpg)
+* [2021 中国机器人技能大赛(二等奖)](https://github.com/mvyp/.github/blob/main/profile/imgs/3.jpg)
+* [2021 RoboCup@Home(二等奖)](https://github.com/mvyp/.github/blob/main/profile/imgs/4.jpg)
+* [IJCAI 2019 Eldercare Robot Challenges(The First Place)](https://github.com/mvyp/.github/blob/main/profile/imgs/5.jpg)
+* [2018 中国机器人技能大赛(一等奖)](https://github.com/mvyp/.github/blob/main/profile/imgs/6.jpg)
 
 ## 代码仓库：
 * [2024 RoboCup@Home](https://github.com/mvyp/Robocup_2024)
