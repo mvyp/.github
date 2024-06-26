@@ -4,7 +4,8 @@
 [机器人中心考核要求.pdf](profile/机器人中心考核要求.pdf)
 
 # International Robotics Club
-嗨害！这里是北京化工大学国际机器人中心！</br>
+嗨害！这里是北京化工大学国际机器人中心！
+</br>
 ![1](https://github.com/mvyp/.github/blob/main/profile/imgs/background.jpg)</br>
 
 ## 奖项：
