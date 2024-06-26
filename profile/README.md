@@ -5,7 +5,7 @@
 
 # International Robotics Club
 嗨害！这里是北京化工大学国际机器人中心！</br>
-![1](https://github.com/mvyp/.github/blob/main/profile/imgs/1.jpg)</br>
+![1](https://github.com/mvyp/.github/blob/main/profile/imgs/background.jpg)</br>
 
 ## 奖项：
 * [2022 RoboCup@Home(一等奖)](https://github.com/mvyp/.github/blob/main/profile/imgs/2022robocup.jpg)
