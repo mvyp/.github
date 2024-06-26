@@ -4,8 +4,8 @@
 ## Class of 2024 (2020级)
 * [**Chenghao Lin**](https://www.linkedin.com/in/chenghao-lin-aa9301221/), M.Sc. student in Robotics at UMich.
 * **Naian Tao**, M.Sc. student in Mechanical Engineering (Robotics Track) at Columbia University.
+* **Shu Zhao**, M.Res. student at Mobile Robotics Platform Lab, Waseda University.
 * **Shufan Chen**, Master student at BUCT (北京化工大学).
-* **Shu Zhao**, Master student at Waseda University.
 * **Kexin Song**, Master student at Beihang University (北京航空航天大学).
 * **Yuan He**, Master student at BUCT (北京化工大学).
 * **Xiaoyue Li**
