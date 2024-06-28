@@ -9,7 +9,7 @@
 ![1](https://github.com/mvyp/.github/blob/main/profile/imgs/background.jpg)</br>
 
 ## 奖项：
-* **2024 RoboCup@Home(二等奖)**(TODO)
+* [2024 RoboCup@Home(二等奖)](https://github.com/mvyp/.github/blob/main/profile/imgs/2024robocup.jpg)
 * [2022 RoboCup@Home(一等奖)](https://github.com/mvyp/.github/blob/main/profile/imgs/2022robocup.jpg)
 * [ICRA 2022 RoboMaster University Sim2Real Challenge(The Third Prize)](https://github.com/mvyp/.github/blob/main/profile/imgs/2.jpg)
 * [2021 中国机器人技能大赛(二等奖)](https://github.com/mvyp/.github/blob/main/profile/imgs/3.jpg)
