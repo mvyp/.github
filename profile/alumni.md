@@ -14,7 +14,6 @@
 * [**Zhengxiao Han**](https://www.linkedin.com/in/purimagination/), M.Sc. student in Robotics at Northwestern University.
 * [**Zeyu Ren**](https://www.linkedin.com/in/zeyu-ren-54340429a/), M.Eng. student in Mechatronics at Melbourne University.
 * [**Tianao Ren**](https://www.linkedin.com/in/teoren/), M.Sc. student in Mechanical Engineering at Stanford University.
-* **Ziwen Wang (The boy in the organization avatar. GitHub头像里的那个男的)**, Ph.D. student in Physics at ZJU (浙江大学).
 
 ## Class of 2022 (2018级)
 * [**Yixiao Feng**](https://www.linkedin.com/in/yixiao-feng043/), M.Eng.Sc. student in Robotics at UNSW, focusing on SLAM.
