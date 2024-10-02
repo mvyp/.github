@@ -5,7 +5,7 @@
 
 
 可以点击视频链接 直观感受我们做的工作！
-<video src=https://github.com/0nhc/mvyp.profile/assets/teaser_video.mp4>
+<video src=https://github.com/0nhc/mvyp.github/blob/main/assets/teaser_video.mp4>
 </video>
 
 # SIE Robotics Club
