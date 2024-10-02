@@ -4,9 +4,6 @@
 [机器人中心考核要求.pdf](https://github.com/mvyp/.github/blob/main/profile/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%AD%E5%BF%83%E8%80%83%E6%A0%B8%E8%A6%81%E6%B1%82.pdf)
 
 
-可以点击视频链接 直观感受我们做的工作！
-
-https://github.com/0nhc/mvyp.github/blob/main/assets/teaser_video.mp4
 
 # SIE Robotics Club
 嗨害！这里是北京化工大学国际机器人中心！
