@@ -5,8 +5,8 @@
 
 
 可以点击视频链接 直观感受我们做的工作！
-<video src=https://github.com/0nhc/mvyp.github/blob/main/assets/teaser_video.mp4>
-</video>
+
+https://github.com/0nhc/mvyp.github/blob/main/assets/teaser_video.mp4
 
 # SIE Robotics Club
 嗨害！这里是北京化工大学国际机器人中心！
