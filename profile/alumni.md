@@ -16,7 +16,7 @@
 * [**Tianao Ren**](https://www.linkedin.com/in/teoren/), M.Sc. student in Mechanical Engineering at Stanford University.
 
 ## Class of 2022 (2018级)
-* [**Yixiao Feng**](https://www.linkedin.com/in/yixiao-feng043/), M.Eng.Sc. student in Robotics at UNSW, focusing on SLAM.
+* [**Yixiao Feng**](https://yixfeng.github.io/), M.Eng.Sc. student in Robotics at UNSW, focusing on SLAM.
 * **Yang Yang**, M.Phil. student in Data Science at CUHKsz.
 * **Yi Zhu**, Graduate student at HIT (哈尔滨工业大学).
 * [**Xiang Gao**](https://www.linkedin.com/in/%E7%BF%94-%E9%AB%98-b677bb296/), M.Sc. student in Biomedical Engineering at TU Delft.
