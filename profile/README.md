@@ -8,7 +8,6 @@
 
 https://github.com/user-attachments/assets/7a750e9d-85b2-4102-9be4-f3f94630027b
 
-</br>
 ![1](https://github.com/mvyp/.github/blob/main/profile/imgs/background.jpg)</br>
 
 ## 奖项：
