@@ -2,8 +2,8 @@
 *"The story never ends."*
 
 ## Class of 2024 (2020级)
-* [**Chenghao Lin**](https://www.linkedin.com/in/chenghao-lin-aa9301221/), M.Sc. student in Robotics at UMich.
-* **Naian Tao**, M.Sc. student in Mechanical Engineering (Robotics Track) at Columbia University.
+* [**Chenghao Lin**](https://linden713.github.io/), M.Sc. student in Robotics at UMich.
+* [**Naian Tao**](https://tna001-ai.github.io/), M.Sc. student in Mechanical Engineering (Robotics Track) at Columbia University.
 * **Shufan Chen**, Master student at BUCT (北京化工大学).
 * **Shu Zhao**, M.Res. student at Mobile Robotics Platform Lab, Waseda University.
 * **Kexin Song**, Master student at Beihang University (北京航空航天大学).
@@ -13,7 +13,6 @@
 ## Class of 2023 (2019级)
 * [**Zhengxiao Han**](https://www.linkedin.com/in/purimagination/), M.Sc. student in Robotics at Northwestern University.
 * [**Zeyu Ren**](https://www.linkedin.com/in/zeyu-ren-54340429a/), M.Eng. student in Mechatronics at Melbourne University.
-* [**Tianao Ren**](https://www.linkedin.com/in/teoren/), M.Sc. student in Mechanical Engineering at Stanford University.
 
 ## Class of 2022 (2018级)
 * [**Yixiao Feng**](https://yixfeng.github.io/), M.Eng.Sc. student in Robotics at UNSW, focusing on SLAM.
@@ -32,4 +31,4 @@
 * [**Ruiqi Wang**](https://www.linkedin.com/in/ruiqi-wang-41762b207), Ph.D. student at Purdue University, focusing on Robotics.
 * **Weizheng Wang**, Ph.D. student at Purdue University, focusing on Robotics.
 * **Dezhong Zhao**, Master student at BUCT (北京化工大学).
-* [**Ziqin Yuan**](https://www.linkedin.com/in/ziqin-yuan-410203214/), M.Sc. student in Mechatronics and Robotics at NYU.
+* [**Ziqin Yuan**](https://www.linkedin.com/in/ziqin-yuan-410203214/), Ph.D. student at Purdue University, focusing on Robotics.
