@@ -39,8 +39,7 @@ ROS（Ubuntu 20.04）的安装、ROS 节点话题消息的理解、ROS 工作空
 解和代码的阅读。
 * **视觉**: 如对机器视觉相关内容的掌握、***<u>YOLO/SAM/...</u>*** 的使用、训练数据集进行物体识别等。
 * **机械臂**: ***<u>用 MoveIt 在仿真环境控制机械臂</u>***。建议实际操作Kinova 机械臂的仿真
-[https://github.com/Kinovarobotics/kinova-ros.git](https://github.com/Kinovarobotics/kinova-ros.git)或者按照MoveIt 官
-方教程[https://ros-planning.github.io/moveit_tutorials](https://ros-planning.github.io/moveit_tutorials/)实际在仿真中控制机械臂。
+[https://github.com/Kinovarobotics/kinova-ros.git](https://github.com/Kinovarobotics/kinova-ros.git)或者按照 MoveIt 官方教程[https://moveit.github.io/moveit_tutorials](https://moveit.github.io/moveit_tutorials/)在仿真中控制机械臂。
 * **其他**: 如果你有其他能够证明你在机器人领域能力的项目，欢迎提交。
 
 ## 3 参考资料
