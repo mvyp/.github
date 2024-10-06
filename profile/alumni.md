@@ -11,7 +11,7 @@
 * **Xiaoyue Li**
 
 ## Class of 2023 (2019级)
-* [**Zhengxiao Han**](https://www.linkedin.com/in/purimagination/), M.Sc. student in Robotics at Northwestern University.
+* [**Zhengxiao Han**](https://0nhc.github.io/), M.Sc. student in Robotics at Northwestern University.
 * [**Zeyu Ren**](https://www.linkedin.com/in/zeyu-ren-54340429a/), M.Eng. student in Mechatronics at Melbourne University.
 
 ## Class of 2022 (2018级)
