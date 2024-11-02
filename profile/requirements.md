@@ -51,7 +51,7 @@ ROS（Ubuntu 20.04）的安装、ROS 节点话题消息的理解、ROS 工作空
 * [古月居](https://www.guyuehome.com/)
 * [ChatGPT](https://chatgpt.com/)
 * [ROS官方文档](https://docs.ros.org/) and [ROS官方Tutorials](https://wiki.ros.org/ROS/Tutorials)
-* [Modern Robotics Coursera](https://www.coursera.org/specializations/modernrobotics) and [Modern Robotics Website](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)
+* [Modern Robotics](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)
 * [Coursera](https://www.coursera.org/)
 * [The Construct](https://www.theconstruct.ai/)
 * [YouTube](https://www.youtube.com/)
