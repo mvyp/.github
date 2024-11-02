@@ -46,12 +46,12 @@ ROS（Ubuntu 20.04）的安装、ROS 节点话题消息的理解、ROS 工作空
 以下是一些学习和实践机器人相关技术的推荐参考资料和网站：
 
 * [机器人工程师学习计划](https://zhuanlan.zhihu.com/p/22266788)
+* [ROS官方文档](https://docs.ros.org/) and [ROS官方Tutorials](https://wiki.ros.org/ROS/Tutorials)
+* [Modern Robotics](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)
 * [Bilibili](https://www.bilibili.com/)
 * [深蓝学院](https://www.shenlanxueyuan.com/)
 * [古月居](https://www.guyuehome.com/)
 * [ChatGPT](https://chatgpt.com/)
-* [ROS官方文档](https://docs.ros.org/) and [ROS官方Tutorials](https://wiki.ros.org/ROS/Tutorials)
-* [Modern Robotics](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)
 * [Coursera](https://www.coursera.org/)
 * [The Construct](https://www.theconstruct.ai/)
 * [YouTube](https://www.youtube.com/)
