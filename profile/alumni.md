@@ -8,7 +8,7 @@
 * **Shu Zhao**, M.Res. student at Mobile Robotics Platform Lab, Waseda University.
 * **Kexin Song**, Master student at Beihang University (北京航空航天大学).
 * **Yuan He**, Master student at BUCT (北京化工大学).
-* **Xiaoyue Li** M.Sc. student in Mechanical Engineering at National University of Singapore.
+* **Xiaoyue Li**, M.Sc. student in Mechanical Engineering at National University of Singapore.
 
 ## Class of 2023 (2019级)
 * [**Zhengxiao Han**](https://0nhc.github.io/), M.Sc. student in Robotics at Northwestern University.
