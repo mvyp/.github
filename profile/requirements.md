@@ -47,7 +47,7 @@ ROS（Ubuntu 20.04）的安装、ROS 节点话题消息的理解、ROS 工作空
 
 ### 3.3 导航/视觉/机械臂
 * **导航**: 如 ROS 导航框架（move_base）和定位方法（amcl）的理解、***<u>在 Gazebo 中
-进行小车导航的仿真</u>***、局部路径规划和全局路径规划的参数调整、规划方法的理解和代码的阅读。除此之外，机器人的导航与SLAM技术密不可分，这里涉及到数学理论、传感器应用等等，针对于Robocup@Home比赛，可以优先了解Fast-lio激光lidar里程计算法，这或许会成为你阅读的第一篇论文。
+进行小车导航的仿真</u>***、局部路径规划和全局路径规划的参数调整、规划方法的理解和代码的阅读。除此之外，机器人的导航与SLAM技术密不可分，这里涉及到数学理论、传感器应用等等，针对于Robocup@Home比赛，**可以优先了解Fast-lio激光lidar里程计算法，这或许会成为你阅读的第一篇论文**。
 * **视觉**: 如对机器视觉相关内容的掌握、***<u>YOLO/SAM/...</u>*** 的使用、训练数据集进行物体识别等。
 * **机械臂**: ***<u>用 MoveIt 在仿真环境控制机械臂</u>***。建议实际操作Kinova 机械臂的仿真
 [https://github.com/Kinovarobotics/kinova-ros.git](https://github.com/Kinovarobotics/kinova-ros.git)或者按照 MoveIt 官方教程[https://moveit.github.io/moveit_tutorials](https://moveit.github.io/moveit_tutorials/)在仿真中控制机械臂。
