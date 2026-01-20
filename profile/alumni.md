@@ -15,7 +15,7 @@
 * [**Zeyu Ren**](https://www.linkedin.com/in/zeyu-ren-54340429a/), M.Eng. student in Mechatronics at Melbourne University.
 
 ## Class of 2022 (2018级)
-* [**Yixiao Feng**](https://yixfeng.github.io/), M.Eng.Sc. student in Robotics at UNSW, focusing on SLAM.
+* [**Yixiao Feng**](https://yixfeng.github.io/), Ph.D. student at Hong Kong University of Science and Technology (Guangzhou).
 * **Yang Yang**, M.Phil. student in Data Science at CUHKsz.
 * **Yi Zhu**, Graduate student at HIT (哈尔滨工业大学).
 * [**Xiang Gao**](https://www.linkedin.com/in/%E7%BF%94-%E9%AB%98-b677bb296/), M.Sc. student in Biomedical Engineering at TU Delft.
@@ -23,12 +23,12 @@
 
 ## Class of 2021 (2017级)
 * **Yukai Feng**, Ph.D. student in Artificial Intelligence at UCAS (中国科学院大学).
-* **[Pengyuan Wei](https://www.linkedin.com/in/pengyuan-wei-928b0023b/)**, Ph.D. student in Computer Science at UCL, focusing on Robotics.
+* **[Pengyuan Wei](https://www.pengyuanwei.com/)**, Ph.D. student in Computer Science at UCL, focusing on Robotics.
 * **Heng Du**, Ph.D. student in Computer Science and Engineering at CUHK, focusing on Extended Reality.
 * *and more...*
 
 ## Class of 2020 (2016级)
-* [**Ruiqi Wang**](https://www.linkedin.com/in/ruiqi-wang-41762b207), Ph.D. student at Purdue University, focusing on Robotics.
+* [**Ruiqi Wang**](https://r7-robot.github.io/), Ph.D. student at Purdue University, focusing on Robotics.
 * **Weizheng Wang**, Ph.D. student at Purdue University, focusing on Robotics.
 * **Dezhong Zhao**, Master student at BUCT (北京化工大学).
 * [**Ziqin Yuan**](https://www.linkedin.com/in/ziqin-yuan-410203214/), Ph.D. student at Purdue University, focusing on Robotics.
